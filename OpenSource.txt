@@ -9,4 +9,4 @@ To: - SliceOfCode - I learned how to make a derived class from you, and to doubl
 	- ElectricGamer - For telling me things you figured out while we learned.
 	- DAW330073 - for exchanging info as we learned.
 	- MCPEGamer04 - for actully teaching me where to get started in Addons.
-	- Learn C++ - Well... *awkward silence* Thanks for teaching me c++ and actully making sense.
+	- Learn C++ - Well... *awkward silence* Thanks for teaching me c++ and actually making sense.
