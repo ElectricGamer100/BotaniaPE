@@ -6,8 +6,8 @@ Header files, which are used here.
 ~Thanks~
 To: - SliceOfCode - I learned how to make a derived class from you, and to double check licenses on code before I post on github :P
 	- Byteandahalf - Showing the use of your BrewingStand tile renderer, I figured out how to do Tessellation from that
-	- ElectricGamer - For telling me things you figured out while we learned.
-	- DAW330073 - for exchanging info as we learned.
+	- ElectricGamer - For telling me things you figured out while we learned. - thanks buddy - love electric. XD
+- DAW330073 - for exchanging info as we learned.
 	- MCPEGamer04 - for actully teaching me where to get started in Addons.
 	- Learn C++ - Well... *awkward silence* Thanks for teaching me c++ and actually making sense.
         - Jukiroxemnas - for teaching me how to use aabbs.
