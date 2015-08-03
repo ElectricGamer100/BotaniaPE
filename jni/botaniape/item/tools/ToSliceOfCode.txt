@@ -1,0 +1,10 @@
+If you are reading this then, HA! I knew you would check here.
+If not then I am crazy.
+
+Anyways, I am sorry for not realizing that your code wasn't open 
+source, and for posting it on Github, yes I did copy/past that part
+No I did not Intend to keep it, I have a new (terrible/crashing) WIP class. 
+Now will you stop having my phone notifications go off? I do have a life (a lie) you know. :P
+
+~P.S. I am full aware of the stress of people copying code,
+ I was just experimenting.
